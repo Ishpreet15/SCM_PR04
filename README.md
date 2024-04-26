@@ -1,5 +1,5 @@
 <!-- Project Name -->
-# Project Name
+# QUIZ GAME
 
 <!-- Team Members -->
 ## 🚀 Team Members
